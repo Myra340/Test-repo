@@ -2,5 +2,11 @@ body{
 	margin: 0;
 	background color: pink;
 	text-align: center left;
+	<img src="Egg roll.jpeg" alt="Image of Egg roll">
+	img{
+		height: 300px;
+		border-radius: 50;
+		border: 12px dotted rgb(255, 85, 0);
+	}
 	
 }
