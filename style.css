@@ -6,6 +6,7 @@ body{
 		height: 300px;
 		border-radius: 70px;
 		border: 12px dotted rgb(255, 85, 0);
+		background-color: transparent;
 	}
 	
 }
